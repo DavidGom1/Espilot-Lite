@@ -15,7 +15,7 @@
 ## 📚 Documentación
 Toda la información técnica, diagramas de cableado (pinout) y guías de configuración se encuentran en nuestra Wiki:
 
-👉 **[Acceder a la Wiki Oficial](tu-enlace-a-la-wiki)**
+👉 **[Acceder a la Wiki Oficial](https://github.com/DavidGom1/Espilot-Lite/wiki)**
 
 ## ⬇️ Descargas y Firmware
 Las últimas versiones estables del firmware y herramientas de flasheo están disponibles en la sección de Releases de este repositorio.
