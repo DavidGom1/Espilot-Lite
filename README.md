@@ -20,7 +20,7 @@ Toda la información técnica, diagramas de cableado (pinout) y guías de config
 ## ⬇️ Descargas y Firmware
 Las últimas versiones estables del firmware y herramientas de flasheo están disponibles en la sección de Releases de este repositorio.
 
-📥 **[Descargar última versión](tu-enlace-a-releases)**
+📥 **[Descargar última versión](https://github.com/DavidGom1/Espilot-Lite/releases)**
 
 ## ⚙️ Especificaciones Técnicas
 | Parámetro | Valor |
